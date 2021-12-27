@@ -1,16 +1,14 @@
-### Hi there 👋
+## Im Aaron, 16 years old and currently doing my training as IT specialist for application development
 
-<!--
-**MIROowo/MIROowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently im learning and working with
+- C/C++
+- Python
+- HTML/CSS/Javascript
+- PHP
 
-Here are some ideas to get you started:
+### What i want to learn
+- GNU Assembler
+- Operating System Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+- Radio++ (A C++ Internet Radio Player)
