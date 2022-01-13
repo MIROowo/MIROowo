@@ -8,7 +8,7 @@
 
 ### What i want to learn
 - GNU Assembler
-- Operating System Programming
+- General Operating System Programming
 
 ### Current Projects
 - Radio++ (A C++ Internet Radio Player)
