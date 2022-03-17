@@ -1,4 +1,4 @@
-## Im Aaron, 16 years old and currently doing my training as IT specialist for application development
+## Im Aaron, 17 years old and currently doing my training as IT specialist for application development
 
 ### Currently im learning and working with
 - C/C++
