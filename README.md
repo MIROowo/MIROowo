@@ -2,13 +2,11 @@
 
 ### Currently im learning and working with
 - C/C++
+- 6502 Assembly
 - Python
-- HTML/CSS/Javascript
-- PHP
 
 ### What i want to learn
-- GNU Assembler
 - General Operating System Programming
 
 ### Current Projects
-well....
+NES/6502 Emulator
