@@ -9,4 +9,4 @@
 - General Operating System Programming
 
 ### Current Projects
-NES/6502 Emulator
+- NES/6502 Emulator
